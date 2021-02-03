@@ -23,5 +23,6 @@ public class AddUser extends HttpServlet {
         String userAge = req.getParameter("userAge");
         System.out.println(userAge+":      userAge");
         System.out.println(userName+":     userName");
+        System.out.println("测试GitHub");
     }
 }
