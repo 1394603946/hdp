@@ -14,7 +14,6 @@
         <module>hello-maven-service</module>
         <module>hell_maven_web</module>
     </modules>
-    
     <!-- 对依赖的坐标的版本做集中管理-->
     <properties>
         <junit.version>4.12</junit.version>
